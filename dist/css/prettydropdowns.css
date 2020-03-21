@@ -7,7 +7,7 @@
   min-width: 0;
 }
 .prettydropdown > ul {
-  
+  max-width:100%;
   position: absolute;
   top: 0;
   left: 0;
