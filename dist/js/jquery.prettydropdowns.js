@@ -142,7 +142,7 @@
         // which can result in a missing right border when there is a scrollbar.
         $items.width(nWidth).css('width', $items.css('width'));
         if (oOptions.width) {
-          $dropdown.parent().css('min-width', $items.css('width'));
+          //$dropdown.parent().css('min-width', $items.css('width'));
           $dropdown.css('width', '100%');
           $items.css('width', '100%');
         }
